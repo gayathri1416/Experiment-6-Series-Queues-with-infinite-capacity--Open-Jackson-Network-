@@ -65,6 +65,7 @@ else:
     print("Warning! Objects overflow will happen in the conveyor") 
 print("--------------------------------------------------------------") 
 ```
+COLAB LINK: https://colab.research.google.com/drive/103svsFbJNTOel19OBvGmB6lFI3j_USwt?usp=sharing
 # Output
 <img width="947" height="495" alt="image" src="https://github.com/user-attachments/assets/0e239ace-c041-4cfa-90d8-666a5b17c208" />
 # Result
