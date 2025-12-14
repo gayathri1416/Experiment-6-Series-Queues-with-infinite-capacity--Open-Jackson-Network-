@@ -1,11 +1,10 @@
 # Experiment-6-Series-Queues-with-infinite-capacity--Open-Jackson-Network-
 # Aim: 
 ```
-To find
-	a)Average number of materials in the system 
-	b) Average number of materials in the each conveyor 
-	c) Waiting time of each material in the system
-	d) Waiting time of each material in each conveyor
+To find : a)Average number of materials in the system 
+	      b) Average number of materials in the each conveyor 
+	      c) Waiting time of each material in the system
+	      d) Waiting time of each material in each conveyor
 If the arrival of materials follow Poisson process with the mean interval time 12 seconds, service time of lathe machine in series follow exponential distribution with service time 1 seconds, 1.5 seconds and 1.3 seconds respectively and average service time of robot is 7 seconds.
 ```
 # Software required: Visual Components and Python
